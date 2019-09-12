@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gen-admin/gen-admin.iml" filepath="$PROJECT_DIR$/gen-admin/gen-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gen-core/gen-core.iml" filepath="$PROJECT_DIR$/gen-core/gen-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generator-platform.iml" filepath="$PROJECT_DIR$/generator-platform.iml" />
+    </modules>
+  </component>
+</project>
